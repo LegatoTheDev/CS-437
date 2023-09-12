@@ -6,6 +6,6 @@ Post Lab Assignment 1:
 bonus) https://mediaspace.illinois.edu/media/t/1_t3ardjbo
 
 ## Files
-joystick.py -> A1
-temperature.py -> A2
-activate_cam.py -> A3, EC
+* joystick.py -> A1
+* temperature.py -> A2
+* activate_cam.py -> A3, EC
