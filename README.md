@@ -4,3 +4,8 @@ Post Lab Assignment 1:
 2)[IMG_7181.pdf](https://github.com/LegatoTheDev/CS-437/files/12553141/IMG_7181.pdf)
 3) https://mediaspace.illinois.edu/media/t/1_1gctb82h
 bonus) https://mediaspace.illinois.edu/media/t/1_t3ardjbo
+
+## Files
+joystick.py -> A1
+temperature.py -> A2
+activate_cam.py -> A3, EC
